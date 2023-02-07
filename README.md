@@ -1,5 +1,9 @@
-# Proj_1.ae_benchmark
+# VAE_protein_assessment
 Autoencoder benchmark
+
+
+## Publication
+This paper has been accepted by *Journal of Computational Biophysics and Chemistry*.
 
 
 ## About openmm
